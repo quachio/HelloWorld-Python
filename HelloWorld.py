@@ -16,6 +16,9 @@ split over
 several lines
 """
 print(anotherSplitString)
+print('''The pet shop owner say "No, no, 'e's uh,.. he's resting''')
+print("""The pet shop owner say "No, no, 'e's uh,.. he's resting""")
+
 
 
 
